@@ -1,3 +1,8 @@
+-- Q_4. Create a report to get the statistics for the account. The final output includes the following fields:
+-- • month_name
+-- • total_profile_visits
+-- • total_new_followers
+
 SELECT 
     dd.month_name AS month_name,
     SUM(fa.profile_visits) AS total_profile_visits,
