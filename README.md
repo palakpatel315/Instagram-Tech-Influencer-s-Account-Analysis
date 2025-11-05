@@ -65,6 +65,6 @@ It focuses on analyzing **The data of Instagram activity** from a tech influence
 *Aspiring Data Analyst | Skilled in SQL, Power BI, Excel*  
 📍 Passionate about turning data into insights and solving real-world business problems.  
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/palak-patel)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/palak-patel-0711242a0/)
 
 ---
