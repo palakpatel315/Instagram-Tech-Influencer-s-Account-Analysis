@@ -49,7 +49,7 @@ It focuses on analyzing **The data of Instagram activity** from a tech influence
 
 ## 📸 **SQL Queries**
 
-![SQL Query File]()
+![Check_SQL Query File](https://github.com/palakpatel315/Instagram-Tech-Influencer-s-Account-Analysis/tree/main/Instagram_Tech_analysis_SQL_queries)
 
 ---
 
